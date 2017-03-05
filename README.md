@@ -40,11 +40,11 @@ See cues in my skeleton notebook so you can get some information about what I am
 
 |  Part |  Earned | Possible | Notes  |  
 |---|---|---|---|---|
-| Composite image  |   |  30 |   |   |
-| Contour/surface plot |   | 35  |   |   |
-| Hypothesis testing |    | 35  |   | 
+| Statistics  | 30  |  30 |   |   |
+| Distributions |  30 | 35  | outlier on BTU data (high values) makes x-axis too wide...  |   |
+| Hypothesis testing |  35  | 35  |   | 
 |  Other |   |   |   e.g., late penalty |
-| Total grade | | | "e.g., good job" | 
+| Total grade |95 | | "e.g., good job" | 
 
 
 ### A note about comments
